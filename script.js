@@ -75,13 +75,13 @@ $(document).ready(function(){
 
   // typing
   var typed = new Typed(".typing",{
-    strings:["Student","Designer","Programmer","Developer","YouTuber","Writer","Local Guide"],
+    strings:["Computer","Science","Engineering"],
     typeSpeed: 80,
     backSpeed:60,
     loop: true,
   })
   var typed = new Typed(".typing-2",{
-    strings:["Student","Designer","Programmer","Developer","YouTuber","Writer","Local Guide"],
+    strings:["Computer","Science","Engineering"],
     typeSpeed: 80,
     backSpeed:60,
     loop: true,
