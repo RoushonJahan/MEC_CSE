@@ -232,7 +232,6 @@ section .title::after {
   bottom: -187px;
 }
 .about .title::after {
-  content: " Who I Am ";
   bottom: -202px;
   color: #00ffff;
   background: #fff;
